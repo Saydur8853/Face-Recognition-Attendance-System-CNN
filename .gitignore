@@ -25,6 +25,7 @@ Thumbs.db
 *.csv
 *.xls
 *.xlsx
+label_map.txt
 
 # Model files
 *.h5
