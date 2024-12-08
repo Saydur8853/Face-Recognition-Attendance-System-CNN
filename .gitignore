@@ -1,0 +1,57 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and debug output
+*.log
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+
+# Model files
+*.h5
+*.ckpt
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Cache
+*.cache
+.cache/
+*.temp
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Generated files
+train_model.py  # if auto-generated or temporary
+attendance.xlsx  # if this is meant to remain local
+
+# Miscellaneous
+node_modules/
+*.pid
+*.lock
