@@ -13,8 +13,9 @@ Ensure you have the following installed on your system:
 
 1.  **Clone the repository**
 
-    `git clone <repository_url>
-    cd FaceRecognitionAttendance`
+    `git clone <repository_url>`
+    
+    `cd FaceRecognitionAttendance`
 
 2.  **Set up a virtual environment**
     
