@@ -17,6 +17,7 @@ Ensure you have the following installed on your system:
     cd FaceRecognitionAttendance`
 
 2.  **Set up a virtual environment**
+    
     `python -m venv venv
     source venv/bin/activate  # For Linux/MacOS
     venv\Scripts\activate     # For Windows`
